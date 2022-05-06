@@ -1,0 +1,1 @@
+<h1>Conditions générales de ventes</h1>

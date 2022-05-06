@@ -1,0 +1,4 @@
+# dossier de travail de composer, on ne livre/commit pas
+vendor
+import-external-repo.sh
+config.ini
